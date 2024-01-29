@@ -1,0 +1,35 @@
+Date: 25/1/2024
+Time: 10:7
+Phone Number: +1234567890
+Message: Hello, this is an automated message.
+--------------------
+Date: 25/1/2024
+Time: 10:10
+Phone Number: +91 9970257441
+Message: Hello, this is an automated message from aditya side using python
+--------------------
+Date: 25/1/2024
+Time: 10:12
+Phone Number: +91 9970257441
+Message: Hello, this is an automated message from aditya side using python
+--------------------
+Date: 25/1/2024
+Time: 10:15
+Phone Number: +91 9970257441
+Message: Hello, this is an automated message using python programming language
+--------------------
+Date: 25/1/2024
+Time: 10:23
+Group ID: BCA(AMITY ONLINE SPECIAL [VIP] GROUP)🖥️💫
+Message: Hello, this is an automated message using python now your turn to make this things .
+--------------------
+Date: 29/1/2024
+Time: 10:55
+Phone Number: +91 9970257441
+Message: Hello, this is an automated message using python programming language
+--------------------
+Date: 29/1/2024
+Time: 10:57
+Phone Number: +91 8679266863
+Message: Hello, this is an automated message using python programming language
+--------------------
